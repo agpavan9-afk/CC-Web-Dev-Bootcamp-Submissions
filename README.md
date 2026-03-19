@@ -36,7 +36,7 @@ YourName_USN/
 * Example:
 
   ```
-  Varun_Aditya_1RV24IS143
+  Fathima_Imran_1RV24CS085
   ```
 
 ⚠️ Incorrect naming or structure may lead to your submission being ignored.
@@ -68,8 +68,7 @@ For each assignment:
 
 ### 1. Fork the Repository
 
-👉 https://github.com/varunaditya27/CC-Web-Dev-Bootcamp-Submissions
-Click **Fork**
+👉 https://github.com/Lonecoder1109/CC-Web-Dev-Bootcamp-Submissions **Fork**
 
 ---
 
@@ -121,7 +120,7 @@ git push origin main
 Before every new assignment, sync your repo:
 
 ```
-git remote add upstream https://github.com/varunaditya27/CC-Web-Dev-Bootcamp-Submissions.git
+git remote add upstream https://github.com/Lonecoder1109/CC-Web-Dev-Bootcamp-Submissions.git
 git pull upstream main
 git push origin main
 ```
